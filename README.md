@@ -1,1 +1,1 @@
-# fluxed
+# fluxCD
