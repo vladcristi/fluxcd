@@ -8,6 +8,6 @@ data:
     <html>
     <head><title>FluxCD App on OKE</title></head>
     <body>
-      <h1>Hello from FluxCD + NGINX on Oracle OKE 🚀</h1>
+      <h1>Hello from FluxCD + NGINX on Oracle OKE</h1>
     </body>
     </html>
